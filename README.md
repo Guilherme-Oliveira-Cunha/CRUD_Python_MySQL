@@ -28,4 +28,4 @@ https://user-images.githubusercontent.com/96260598/169909672-479fc3fd-9da1-4c46-
 
 ## 📁 Acesso ao projeto
 
-Você pode acessar o projeto fazendo o download [⬇](https://github.com/Guilherme-Oliveira-Cunha/CRUD_Python_MySQL/files/8758300/loja.zip). 
+Você pode acessar o projeto fazendo o download por aqui [⬇⬇](https://github.com/Guilherme-Oliveira-Cunha/CRUD_Python_MySQL/files/8758300/loja.zip). 
